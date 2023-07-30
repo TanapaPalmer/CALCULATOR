@@ -1,0 +1,72 @@
+body {
+    display: flex;
+    justify-content:space-evenly;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(108, 102, 107);
+    font-weight: bold;
+    font-size: 20px;
+    align-items: center;
+    margin-top: 30px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://wallpapercave.com/wp/wp4016923.png);
+}
+
+#head {
+    display: flex;
+    flex-direction: column;
+    font-family: cursive;
+}
+
+#calculator {
+    background-color: #bc85a3;
+    height: 590px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    padding: 20px;
+    border-radius: 20px;
+    border: 4px solid rgb(108, 102, 107);
+    box-shadow: 2px 2px 2px 2px lightslategrey;
+}
+
+#display {
+    color: rgb(108, 102, 107);
+    font-size: 50px;
+    height: 40px;
+    width: 300px;
+    padding: 20px;
+    background-color: #f9e1e0;
+    margin-top: 15px;
+}
+
+
+.row button {
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: #9799ba;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.rows button {
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #f9e1e0;
+    color: rgb(108, 102, 107);
+    font-size: 30px;
+}
+
+.row .special {
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: #feadb9;
+    color: rgb(255, 255, 255);
+    font-size: 30px; 
+}
