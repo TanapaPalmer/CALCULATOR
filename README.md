@@ -1,5 +1,6 @@
 <div>
-  <h3>CALCULATOR</h3>
+  <h3>CALCULATOR</h3> 
+  <p>:pushpin:#tanapa_100day_projects</p>
   <br>
   <div>
     <img src="https://github.com/TanapaPalmer/CALCULATOR/assets/119079803/539e1086-d368-48f7-8ef8-799565edb5b0" alt="calculator_picture" height="250"/>
@@ -14,8 +15,10 @@
     <p>:pencil2: HTML, CSS and JavaScript</p>
   </div>
 
-  <hr>
 
+
+  <hr>
+  
   <div>
     <p><strong>HOW MY CALCULATOR WORKS:</strong></p>
     <video src="https://github.com/TanapaPalmer/CALCULATOR/assets/119079803/e5483321-1be8-43d4-92ad-ad67585d4ab7"></video>
