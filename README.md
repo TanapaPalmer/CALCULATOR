@@ -6,7 +6,7 @@
     <img src="https://github.com/TanapaPalmer/CALCULATOR/assets/119079803/539e1086-d368-48f7-8ef8-799565edb5b0" alt="calculator_picture" height="250"/>
   </div>
   <br>
-  <p>"I'm putting together this super cute pastel Tanapa Calculator using HTML, CSS, and JavaScript! How adorable is this!"</p>
+  <p>I'm putting together this super cute pastel Tanapa Calculator using HTML, CSS, and JavaScript! How adorable is this!</p>
 
   <hr>
 
